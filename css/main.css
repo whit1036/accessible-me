@@ -13,6 +13,7 @@ h5,
 h6 {
   font-family: 'Stick No Bills', 'Roboto', Helvetica, sans-serif;
   color: #ffffff;
+  font-size: 2rem;
 }
 
 p, address, ul, form, button, footer {
