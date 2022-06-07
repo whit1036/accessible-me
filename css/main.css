@@ -35,8 +35,16 @@ p, address, ul, form, button, footer {
   padding: 0 1rem;
 }
 
+.main-nav {
+  width: 1080px;
+  position: relative;
+  margin: 0, auto;
+}
+
 img {
-  width: 100%;
+  width: 400px;
+  float: right;
+  padding-top: 3rem;
 }
 
 .main-nav ul {
