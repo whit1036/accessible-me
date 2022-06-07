@@ -1,3 +1,12 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after{
+  box-sizing: inherit;
+}
+
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
   background-color: #494440;
@@ -24,6 +33,10 @@ p, address, ul, form, button, footer {
   max-width: 1080px;
   margin: 0 auto;
   padding: 0 1rem;
+}
+
+header {
+
 }
 
 img {
