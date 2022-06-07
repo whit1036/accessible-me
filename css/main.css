@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: grey;
+  background-color: #494440;
   margin: 0;
   padding: 0;
 }
@@ -12,6 +12,11 @@ h4,
 h5,
 h6 {
   font-family: 'Stick No Bills', 'Roboto', Helvetica, sans-serif;
+  color: #ffffff;
+}
+
+p, address, ul, form, button, footer {
+  color: #ffffff;
 }
 
 .container {
@@ -61,7 +66,7 @@ form textarea {
 
 form button {
   background: none;
-  border: 2px solid black;
+  border: 2px solid #ffffff;
   padding: 1rem;
   text-transform: uppercase;
 }
