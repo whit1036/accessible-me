@@ -68,10 +68,15 @@ a:focus {
   border-bottom: 2px solid #FFFFFF;
 }
 
-img {
+.banner {
   width: 450px;
   float: right;
   padding-top: 3.5rem;
+}
+
+.jd {
+  width: 430px;
+  float: right;
 }
 
 .welcome {
