@@ -41,6 +41,10 @@ p, address, ul, form, button, footer {
   margin: 0 auto;
 }
 
+a:focus {
+  outline: 4px solid black;
+}
+
 .main-nav a:hover {
   border-bottom: 2px solid #FFFFFF;
 }
