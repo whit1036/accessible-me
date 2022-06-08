@@ -46,9 +46,9 @@ p, address, ul, form, button, footer {
 }
 
 img {
-  width: 350px;
+  width: 450px;
   float: right;
-  padding-top: 3rem;
+  padding-top: 3.5rem;
 }
 
 .welcome {
@@ -104,4 +104,5 @@ footer {
 
 /* References
 
-http://web-accessibility.carnegiemuseums.org/design/color/ */
+http://web-accessibility.carnegiemuseums.org/design/color/
+https://www.w3schools.com/howto/howto_css_navbar_border.asp */
