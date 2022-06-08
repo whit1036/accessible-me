@@ -22,7 +22,7 @@ h5,
 h6 {
   font-family: 'Stick No Bills', 'Roboto', Helvetica, sans-serif;
   color: #ffffff;
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 
 p, address, ul, form, button, footer {
@@ -41,6 +41,10 @@ p, address, ul, form, button, footer {
   margin: 0, auto;
 }
 
+.main-nav a:hover {
+  border-bottom: 2px solid #FFFFFF;
+}
+
 img {
   width: 350px;
   float: right;
@@ -49,6 +53,7 @@ img {
 
 .welcome {
   padding-top: 1rem;
+  font-size: large;
 }
 
 .main-nav ul {
@@ -68,7 +73,7 @@ img {
   display: block;
   color: inherit;
   text-decoration: none;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 
 form input,
