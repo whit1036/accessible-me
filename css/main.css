@@ -35,6 +35,10 @@ p, address, ul, form, button, footer {
   padding: 0 1rem;
 }
 
+.welcome {
+  padding-top: 1rem;
+}
+
 .main-nav {
   width: 1080px;
   position: relative;
@@ -42,7 +46,7 @@ p, address, ul, form, button, footer {
 }
 
 img {
-  width: 400px;
+  width: 350px;
   float: right;
   padding-top: 3rem;
 }
