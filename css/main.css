@@ -64,6 +64,10 @@ a:focus {
   outline: 4px solid black;
 }
 
+a:visited {
+  color: #ffffff;
+}
+
 .main-nav a:hover {
   border-bottom: 2px solid #FFFFFF;
 }
