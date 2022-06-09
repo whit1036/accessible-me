@@ -104,6 +104,10 @@ address {
   font-size: larger;
 }
 
+.contact-section {
+  padding-top: 4rem;
+}
+
 ul {
   font-size: larger;
 }
@@ -132,7 +136,7 @@ form input,
 form textarea {
   display: block;
   width: 100%;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   padding: .5rem 1rem;
 }
 
@@ -148,6 +152,10 @@ form button {
   border: 2px solid #ffffff;
   padding: 1rem;
   text-transform: uppercase;
+}
+
+form {
+  font-size: x-large;
 }
 
 footer {
