@@ -91,7 +91,12 @@ a:active {
 }
 
 .jd {
-  width: 430px;
+  width: 400px;
+  float: right;
+  padding-left: 2rem;
+}
+
+.owner {
   float: right;
 }
 
@@ -100,12 +105,12 @@ a:active {
   font-size: large;
 }
 
-address {
+.address {
   font-size: larger;
 }
 
 .contact-section {
-  padding-top: 4rem;
+  padding-top: 12rem;
 }
 
 ul {
