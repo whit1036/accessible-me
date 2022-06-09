@@ -68,6 +68,10 @@ a:visited {
   color: #ffffff;
 }
 
+a:active {
+  color: #ffffff;
+}
+
 .main-nav a:hover {
   border-bottom: 2px solid #FFFFFF;
 }
