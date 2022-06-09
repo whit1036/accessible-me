@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-  <main role="banner">
+  <main>
     <div class="container" id="top">
     
       <ul class="skip-links">
@@ -20,11 +20,11 @@
         <li><a href="#main">Skip to main content</a></li>
       </ul>
       
-      <header role="heading">
+      <header role="banner">
         <h1>Jam Box Studios</h1>
       
-        <nav id="nav" class="main-nav">
-          <ul role="navigation">
+        <nav role="navigation" id="nav" class="main-nav">
+          <ul>
             <li><a href="#">Home</a></li>
             <li><a href="#">Products</a></li>
             <li><a href="#">Reservation</a></li>
@@ -48,17 +48,17 @@
       
         <section role="complementary" class="info">
           
-          <img src="https://cdn.pixabay.com/photo/2015/07/28/03/58/guitar-player-863902_960_720.jpg" role="img" alt="theowner" aria-lablledby="johndoe" class="jd" aria-details="aboutowner">
+          <img src="https://cdn.pixabay.com/photo/2015/07/28/03/58/guitar-player-863902_960_720.jpg" role="img" alt="theowner" class="jd" aria-details="aboutowner">
           
           <aside class="owner">
 
             <h1>Meet the owner</h1>
         
             <ul role="list" id="aboutowner" itemscope itemtype="https://schema.org/Person">
-              <li role="listitem" itemprop="name">Name: John Doe</li>
-              <li role="listitem" itemprop="jobTitle">Title: CEO</li>
-              <li role="listitem" itemprop="email">Email: johnjoe@jambox.ca</li>
-              <li role="listitem" itemprop="telephone">Phone: 613-000-0000</li>
+              <li itemprop="name">Name: John Doe</li>
+              <li itemprop="jobTitle">Title: CEO</li>
+              <li itemprop="email">Email: johnjoe@jambox.ca</li>
+              <li itemprop="telephone">Phone: 613-000-0000</li>
             </ul>
           </aside>
 
